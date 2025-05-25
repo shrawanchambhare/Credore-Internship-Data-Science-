@@ -1,0 +1,35 @@
+# Titanic Data Cleaning & EDA
+
+Credora internship task2 to clean and explore the Titanic dataset.
+
+# 1. Project Overview
+
+- Cleaned and preprocessed Titanic dataset
+- Handled missing values (`Age`, `Embarked`, `Cabin`)
+- Encoded categorical variables
+- Performed EDA with visualizations
+
+# 2. Tools Used
+
+- Python
+- Pandas, NumPy
+- Seaborn, Matplotlib
+- Jupyter Notebook
+
+# 3. Files Included
+
+- `Task2.ipynb` — Main notebook with preprocessing & visualizations
+- `train.csv` — Original dataset (upload required to run notebook)
+- `cleaned_titanic.csv` — Cleaned dataset
+
+# 3. How to Run
+
+1. Install dependencies: `pip install pandas numpy matplotlib seaborn`
+2. Open `Task2.ipynb` in Jupyter Notebook
+3. Run all cells
+
+# 4. Visualizations
+
+1. Age Distribution (age_distribution.png)
+2. Survival Count (survival_count.png)
+3. Fare by Class (fare_by_pclass.png)
